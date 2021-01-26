@@ -5,4 +5,5 @@ From a professional standpoint though, my main focus of learning and study is th
 My latest endevours have been exploring new frameworks and technologies, among them being Sass, Typescript, React, Node and Electron.
 
 [Stackoverflow](https://stackoverflow.com/users/story/9795420)
+
 [LinkedIn](www.linkedin.com/in/z-ishmael)
