@@ -8,6 +8,8 @@ Projects:
 
 [PyPong](https://github.com/Zaederx/PyPong)
 
+[Journal App](https://github.com/Zaederx/JournalApp)
+
 Social:
 
 [Stackoverflow](https://stackoverflow.com/users/story/9795420)
