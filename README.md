@@ -8,6 +8,8 @@ Projects:
 
 [PyPong](https://github.com/Zaederx/PyPong)
 
+[PySnake](https://github.com/Zaederx/PySnake)
+
 [Journal App](https://github.com/Zaederx/JournalApp)
 
 Social:
