@@ -6,11 +6,11 @@ My latest endevours have been exploring new frameworks and technologies, among t
 
 Projects:
 
-[PyPong](https://github.com/Zaederx/PyPong)
+[PyPong](https://github.com/Zaederx/PyPong) - Python
 
-[PySnake](https://github.com/Zaederx/PySnake)
+[PySnake](https://github.com/Zaederx/PySnake) - Python
 
-[Journal App](https://github.com/Zaederx/JournalApp)
+[Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Electron
 
 Social:
 
