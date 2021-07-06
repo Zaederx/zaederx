@@ -10,7 +10,7 @@ Projects:
 
 [PySnake](https://github.com/Zaederx/PySnake) - Python
 
-[Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - Typescript, HTML, Sass, Electron
+[Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript, HTML, Sass, Electron
 
 [Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Node + Electron
 
