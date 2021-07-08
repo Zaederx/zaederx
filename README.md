@@ -16,7 +16,7 @@ Projects:
 
 [iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, Javascript, JSP
 
-[Paitnet Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thmyleaf, HTML, CSS, JavaScript
+[Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thmyleaf, HTML, CSS, JavaScript
 
 Social:
 
