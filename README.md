@@ -14,6 +14,8 @@ Projects:
 
 [Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Node + Electron
 
+[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, Javascript, JSP
+
 Social:
 
 [Stackoverflow](https://stackoverflow.com/users/story/9795420)
