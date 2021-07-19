@@ -4,6 +4,12 @@ From a professional standpoint though, my main focus of learning and study is th
 
 My latest endevours have been exploring new frameworks and technologies, among them being Sass, Typescript, React, Node and Electron.
 
+Web Design:
+[Demo Uni Landing Page](https://zaederx.github.io/UniLandingPage/)
+
+[Demo Login Form Design](https://zaederx.github.io/LoginForm/)
+
+
 Projects:
 
 [PyPong](https://github.com/Zaederx/PyPong) - Python
