@@ -12,18 +12,18 @@ Web Design:
 
 
 Projects:
+[Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Node + Electron
+
+[Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript, HTML, Sass, Electron
 
 [PyPong](https://github.com/Zaederx/PyPong) - Python
 
 [PySnake](https://github.com/Zaederx/PySnake) - Python
 
-[Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript, HTML, Sass, Electron
-
-[Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Node + Electron
-
 [iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, Javascript, JSP
 
 [Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thmyleaf, HTML, CSS, JavaScript
+
 
 Social:
 
