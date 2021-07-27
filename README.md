@@ -12,6 +12,7 @@ Web Design:
 
 
 Projects:
+
 [Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Node + Electron
 
 [Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript, HTML, Sass, Electron
