@@ -25,7 +25,7 @@ Projects:
 
 [Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thmyleaf, HTML, CSS, JavaScript
 
-[Weather Prediction Model - One Featured Linear Regression](https://github.com/Zaederx/weatherPredictionModel)
+[Weather Prediction Model - One Featured Linear Regression](https://github.com/Zaederx/weatherPredictionModel) - Python, Jupyter Notebook
 
 Social:
 
