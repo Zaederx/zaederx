@@ -6,9 +6,9 @@ My latest endevours have been exploring new frameworks and technologies, among t
 
 Web Design:
 
-[Demo Uni Landing Page](https://zaederx.github.io/UniLandingPage/)
+[Demo Uni Landing Page](https://zaederx.github.io/UniLandingPage/) - Bootstrap, HTML, CSS
 
-[Demo Login Form Design](https://zaederx.github.io/LoginForm/)
+[Demo Login Form Design](https://zaederx.github.io/LoginForm/) - HTML, CSS
 
 
 Projects:
