@@ -17,13 +17,15 @@ Projects:
 
 [Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript, HTML, Sass, Electron
 
+[Chess](https://github.com/Zaederx/Chess) - Spring Boot MVC, HTML, Sass, TypeScript, Gradle
+
 [PyPong](https://github.com/Zaederx/PyPong) - Python
 
 [PySnake](https://github.com/Zaederx/PySnake) - Python
 
-[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, Javascript, JSP
+[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, Javascript, JSP, Gradle
 
-[Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thmyleaf, HTML, CSS, JavaScript
+[Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thmyleaf, HTML, CSS, JavaScript, Gradle
 
 [Weather Prediction Model - One Featured Linear Regression](https://github.com/Zaederx/weatherPredictionModel) - Python, Jupyter Notebook
 
