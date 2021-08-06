@@ -27,7 +27,7 @@ Projects:
 
 [Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle
 
-[Humidity Prediction Model - Multiple Regession Model](https://github.com/Zaederx/weatherPredictionModel) - Python (with pandas & sklearn modules), Jupyter Notebook
+[Humidity Prediction Model - Multiple Linear Regression Model](https://github.com/Zaederx/weatherPredictionModel) - Python (with pandas & sklearn modules), Jupyter Notebook
 
 Social:
 
