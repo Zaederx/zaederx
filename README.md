@@ -13,13 +13,13 @@ Web Design:
 
 Projects:
 
-[Journal App](https://github.com/Zaederx/JournalApp) - TypeScript, HTML, Sass, Node + Electron
+[Journal App](https://github.com/Zaederx/JournalApp) - TypeScript/JavaScript, HTML, Sass, Node + Electron
 
 [Chess](https://github.com/Zaederx/Chess) - Spring Boot MVC, HTML, Thymeleaf, Sass, TypeScript, Gradle
 
-[Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript, HTML, Sass, Electron
+[Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript/JavaScript, HTML, Sass, Electron
 
-[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, Javascript, JSP, Gradle
+[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, JavaScript, JSP, Gradle
 
 [Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle
 
