@@ -15,7 +15,7 @@ Projects:
 
 [Journal App](https://github.com/Zaederx/JournalApp) - TypeScript/JavaScript, HTML, Sass, Node + Electron
 
-[Chess](https://github.com/Zaederx/Chess) - Spring Boot MVC, HTML, Thymeleaf, Sass, TypeScript, Gradle
+[Chess](https://github.com/Zaederx/Chess) - Spring Boot MVC, HTML, Thymeleaf, Sass, TypeScript/JavaScript, Gradle
 
 [Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript/JavaScript, HTML, Sass, Electron
 
