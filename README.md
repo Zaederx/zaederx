@@ -1,6 +1,6 @@
 A developer in development :) I like learning about and trying out various applications of programming, to feed my own curiosity.
 
-From a professional standpoint though, my main focus of learning and study is the Web Development, with my main tools of choice being Java and Spring-Boot, with Thymeleaf for server-side + the regular Javascript (and more recently typescript), jQuery , HTML and CSS for client-side technologies.
+From a professional standpoint though, my main focus of learning and study is the Web Development, with my main tools of choice being Java and Spring-Boot, with Thymeleaf for server-side + the regular Javascript (and more recently typescript), jQuery, HTML and CSS for client-side technologies.
 
 My latest endevours have been exploring new frameworks and technologies, among them being Sass, Typescript, Node and Electron.
 
@@ -19,9 +19,11 @@ Projects:
 
 [Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript/JavaScript, HTML, Sass, Electron
 
-[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, JavaScript, JSP, Gradle
+[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, JavaScript, JSP, Gradle, MySQL(then changed to H2)
 
-[Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle
+[CHEditor](https://github.com/Zaederx/CHEditor) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2)
+
+[Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2)
 
 [Humidity Prediction Model - Multiple Linear Regression Model](https://github.com/Zaederx/weatherPredictionModel) - Python (with pandas & sklearn modules), Jupyter Notebook
 
