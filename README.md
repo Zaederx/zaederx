@@ -19,9 +19,9 @@ Projects:
 
 [Asteroid Field Game](https://github.com/Zaederx/asteroid_field) - TypeScript/JavaScript, HTML, Sass, Electron
 
-[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, JavaScript, JSP, Gradle, MySQL(then changed to H2)
+[iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, JavaScript, JSP, Gradle, MySQL(then changed to H2), Bootstrap
 
-[CHEditor](https://github.com/Zaederx/CHEditor) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2)
+[CHEditor](https://github.com/Zaederx/CHEditor) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2), Bootstrap
 
 [Patient Health App - Demo System](https://github.com/Zaederx/PatientHealthApp-v1.1) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2)
 
