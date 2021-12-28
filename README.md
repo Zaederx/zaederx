@@ -23,7 +23,7 @@ Projects:
 
 [CHEditor](https://github.com/Zaederx/CHEditor) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2), Bootstrap
 
-[Patient Health App](https://github.com/Zaederx/PatientHealthRewrite) & [demo site link](https://patient-health-app.herokuapp.com/)- Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2)
+[Patient Health App](https://github.com/Zaederx/PatientHealthRewrite) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2) - see [demo site link](https://patient-health-app.herokuapp.com/)
 
 [Humidity Prediction Model - Multiple Linear Regression Model](https://github.com/Zaederx/weatherPredictionModel) - Python (with pandas & sklearn modules), Jupyter Notebook
 
