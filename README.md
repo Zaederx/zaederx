@@ -21,7 +21,7 @@ Projects:
 
 [iVoteHub](https://github.com/Zaederx/iVoteHub) - Spring Boot MVC + Spring Security, HTML, CSS, JavaScript, JSP, Gradle, MySQL(then changed to H2), Bootstrap - see [demo site link](https://i-vote-hub.herokuapp.com/home)
 
-[CHEditor](https://github.com/Zaederx/CHEditor) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2), Bootstrap
+[CHEditor](https://github.com/Zaederx/CHEditor) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2), Bootstrap - see [demo site link](https://c-h-editor.herokuapp.com)
 
 [Patient Health App](https://github.com/Zaederx/PatientHealthRewrite) - Spring Boot MVC + Spring Security, Thymeleaf, HTML, CSS, JavaScript, Gradle, MySQL(then changed to H2) - see [demo site link](https://patient-health-app.herokuapp.com/)
 
