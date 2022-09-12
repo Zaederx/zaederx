@@ -31,6 +31,10 @@ Projects:
 
 [PySnake](https://github.com/Zaederx/PySnake) - Python
 
+NPM Packages:
+
+[SimplyString Comparision](https://www.npmjs.com/package/simplystring-comparision) - simple package to compare to string to one another and return a index of similarity
+
 
 Social:
 
