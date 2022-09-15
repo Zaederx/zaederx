@@ -31,6 +31,8 @@ Projects:
 
 [PySnake](https://github.com/Zaederx/PySnake) - Python
 
+[Express Vue Chat App](https://github.com/Zaederx/express-vue-chatapp) - Vue.js, Express, Node, TypeScript, HTML, CSS
+
 NPM Packages:
 
 [SimplyString Comparision](https://www.npmjs.com/package/simplystring-comparision) - simple package to compare to string to one another and return a index of similarity
