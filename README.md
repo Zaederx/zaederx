@@ -37,6 +37,8 @@ NPM Packages:
 
 [SimplyString Comparision](https://www.npmjs.com/package/simplystring-comparision) - simple package to compare to string to one another and return a index of similarity
 
+[SimplyDrag-js](https://www.npmjs.com/package/simplydrag-js) - simple package to allow HTML elements to become draggable
+
 
 Social:
 
