@@ -39,6 +39,7 @@ NPM Packages:
 
 [SimplyDrag-js](https://www.npmjs.com/package/simplydrag-js) - simple package to allow HTML elements to become draggable
 
+[SimplyCollapsible-js](https://www.npmjs.com/package/simplycollapsible-js) - simple package to make collapsible HTML elements
 
 Social:
 
