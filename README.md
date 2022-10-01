@@ -41,6 +41,8 @@ NPM Packages:
 
 [SimplyCollapsible-js](https://www.npmjs.com/package/simplycollapsible-js) - simple package to make collapsible HTML elements
 
+[SimplyRotate-js](https://www.npmjs.com/package/simplyrotate-js) - simple pacakge to help make elements be rotated about their center.
+
 Social:
 
 [Stackoverflow](https://stackoverflow.com/users/story/9795420)
