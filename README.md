@@ -43,6 +43,8 @@ NPM Packages:
 
 [SimplyRotate-js](https://www.npmjs.com/package/simplyrotate-js) - simple pacakge to help make elements be rotated about their center.
 
+[SimplyCookie-js](https://www.npmjs.com/package/simplycookie-js) - simple package with a class to help generate cookie string for http headers.
+
 Social:
 
 [Stackoverflow](https://stackoverflow.com/users/story/9795420)
