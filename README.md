@@ -35,15 +35,15 @@ Projects:
 
 NPM Packages:
 
-[SimplyString Comparision](https://www.npmjs.com/package/simplystring-comparision) - simple package to compare to string to one another and return a index of similarity
+[SimplyString Comparision](https://github.com/Zaederx/simplystring-comparision) - simple package to compare to string to one another and return a index of similarity
 
-[SimplyDrag-js](https://www.npmjs.com/package/simplydrag-js) - simple package to allow HTML elements to become draggable
+[SimplyDrag-js](https://github.com/Zaederx/simplydrag-js) - simple package to allow HTML elements to become draggable
 
-[SimplyCollapsible-js](https://www.npmjs.com/package/simplycollapsible-js) - simple package to make collapsible HTML elements
+[SimplyCollapsible-js](https://github.com/Zaederx/simplycollapsible-js) - simple package to make collapsible HTML elements
 
-[SimplyRotate-js](https://www.npmjs.com/package/simplyrotate-js) - simple pacakge to help make elements be rotated about their center.
+[SimplyRotate-js](https://github.com/Zaederx/simplyrotate-js) - simple pacakge to help make elements be rotated about their center.
 
-[SimplyCookie-js](https://www.npmjs.com/package/simplycookie-js) - simple package with a class to help generate cookie strings for http headers.
+[SimplyCookie-js](https://github.com/Zaederx/simplycookie-js) - simple package with a class to help generate cookie strings for http headers.
 
 Social:
 
