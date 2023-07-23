@@ -45,6 +45,8 @@ NPM Packages:
 
 [SimplyCookie-js](https://github.com/Zaederx/simplycookie-js) - simple package with a class to help generate cookie strings for http headers.
 
+[PrintFormatted-js](https://github.com/Zaederx/printFormatted-js) - simple package to help easily print node.js console output in colour
+
 Social:
 
 [Stackoverflow](https://stackoverflow.com/users/story/9795420)
