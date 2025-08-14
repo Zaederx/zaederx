@@ -4,13 +4,6 @@ From a professional standpoint though, my main focus of learning and study is th
 
 My latest endevours have been exploring new frameworks and technologies, among them being Sass, Typescript, Vue.js, Node and Electron.
 
-Web Design:
-
-[Demo Uni Landing Page](https://zaederx.github.io/UniLandingPage/) - Bootstrap, HTML, CSS
-
-[Demo Login Form Design](https://zaederx.github.io/LoginForm/) - HTML, CSS
-
-
 Projects:
 
 [Journal App](https://github.com/Zaederx/JournalApp) - TypeScript/JavaScript, HTML, Sass, Node + Electron
@@ -32,6 +25,13 @@ Projects:
 [PySnake](https://github.com/Zaederx/PySnake) - Python
 
 [Express Vue Chat App](https://github.com/Zaederx/express-vue-chatapp) - Vue.js, Express, Node, TypeScript, HTML, CSS
+
+Web Design:
+
+[Demo Uni Landing Page](https://zaederx.github.io/UniLandingPage/) - Bootstrap, HTML, CSS
+
+[Demo Login Form Design](https://zaederx.github.io/LoginForm/) - HTML, CSS
+
 
 NPM Packages:
 
